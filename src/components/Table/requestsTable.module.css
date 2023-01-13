@@ -1,0 +1,5 @@
+.selected-cell {
+    background-color: rgb(119, 188, 244);
+}
+
+.custom-row-hover:hover td {background: none!important;}
